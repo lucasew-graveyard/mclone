@@ -5,8 +5,8 @@ go 1.26.0
 require (
 	charm.land/bubbles/v2 v2.0.0
 	charm.land/bubbletea/v2 v2.1.1
-	charm.land/glamour/v2 v2.0.0
-	charm.land/lipgloss/v2 v2.0.2
+	charm.land/glamour/v2 v2.0.1
+	charm.land/lipgloss/v2 v2.0.4
 	codeberg.org/readeck/go-readability/v2 v2.1.1
 	github.com/anthropics/anthropic-sdk-go v1.22.0
 	github.com/goccy/go-json v0.10.5
